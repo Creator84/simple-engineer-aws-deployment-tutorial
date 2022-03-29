@@ -1,4 +1,4 @@
-name: Deployment From Githun to AWS
+name: Deployment From Github to AWS
 on:
   push:
     branches:
